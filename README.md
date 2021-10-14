@@ -25,3 +25,5 @@ classify moving spots into switching between 2 or 3 positions, stationary, rotat
 calculare RMSD, cumulative angle, angular traces, angular velocity, distance from center for desired type of spots (switching, rotating, diffusive)
 
 The folders "functions" and "TOOLBOX_MOVIES" contain support scripts.
+
+DOI: 10.5281/zenodo.5568757
