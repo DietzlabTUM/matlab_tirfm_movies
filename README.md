@@ -22,7 +22,14 @@ to change: folders to load spots
 
 5-classify_spots:
 classify moving spots into switching between 2 or 3 positions, stationary, rotating, diffusive (no full circle) and unclear
-calculare RMSD, cumulative angle, angular traces, angular velocity, distance from center for desired type of spots (switching, rotating, diffusive)
+calculate RMSD, cumulative angle, angular traces, angular velocity, distance from center for desired type of spots (switching, rotating, diffusive)
+
+For TIRM movies that haven't been fitted with the above-named matlab scripts, but for example with the open source Picasso software (https://github.com/jungmannlab/picasso) an alternative main script is available:
+
+classify_spots_eField:
+only for movies with an applied external AC fied
+import fitted spots from hdf5 files and classify spots
+calculate histograms of netto rotations and cumulatve angular displacements
 
 The folders "functions" and "TOOLBOX_MOVIES" contain support scripts.
 
