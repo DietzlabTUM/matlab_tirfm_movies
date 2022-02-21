@@ -29,7 +29,7 @@ For TIRM movies that haven't been fitted with the above-named matlab scripts, bu
 classify_spots_eField:
 only for movies with an applied external AC fied
 import fitted spots from hdf5 files and classify spots
-calculate histograms of netto rotations and cumulatve angular displacements
+calculate histograms of netto rotations and cumulative angular displacements
 
 The folders "functions" and "TOOLBOX_MOVIES" contain support scripts.
 
