@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB TIRFM movie scripts
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matthias
+    family-names: Schickinger
+  - given-names: Philip
+    family-names: Ketterer
+  - given-names: Jonas
+    family-names: Funke
+  - given-names: Anna-Katharina
+    family-names: Pumm
+  - given-names: Wouter
+    family-names: Engelen
+  - given-names: Eva
+    family-names: Bertosin
